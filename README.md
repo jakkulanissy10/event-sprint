@@ -14,9 +14,9 @@ This is a **responsive event website** built with **React.js** and **CSS** to sh
 - **Frontend:** React.js, CSS
 - **Authentication:** Firebase Authentication
 - **API:** Provided event REST APIs (static implementation in current version)
-- **Deployment:** (Add your deployed link here)
+- **Deployment:** (https://event-sprint-git-main-jakkulanissy10s-projects.vercel.app/)
 
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/jakkulanissy10/event-sprint>
