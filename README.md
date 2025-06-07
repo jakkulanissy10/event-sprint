@@ -1,12 +1,22 @@
-# React + Vite
+# Responsive Event Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This is a **responsive event website** built with **React.js** and **CSS** to showcase upcoming and recommended events, primarily focusing on the desktop view. The site integrates user authentication using Firebase and displays event data (currently static).
 
-Currently, two official plugins are available:
+## Features
+- User authentication with **Firebase** (Signup, Login, Session management)
+- Displays recommended events with horizontal scrolling (static data)
+- Lists upcoming events (static implementation; lazy loading planned)
+- Clean, modern UI with emphasis on typography and color scheme
+- Desktop-first approach with plans for full responsiveness
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **Frontend:** React.js, CSS
+- **Authentication:** Firebase Authentication
+- **API:** Provided event REST APIs (static implementation in current version)
+- **Deployment:** (Add your deployed link here)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation and Setup
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
